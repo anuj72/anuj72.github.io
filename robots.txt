@@ -1,4 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
-Sitemap: https://anujsachan.me/sitemap.xml
+Sitemap: https://anuj72.github.io/sitemap.xml
 
